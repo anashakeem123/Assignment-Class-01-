@@ -1,0 +1,13 @@
+{
+  "name": "assignment-class-01-",
+  "version": "1.0.0",
+  "description": "This is a Find Ages Child , Teenager , Adults , Seniore Citizens use Typescript And Node.js.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Anas Hakeem",
+  "license": "ISC"
+}
